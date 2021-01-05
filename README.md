@@ -1,8 +1,8 @@
 
-<h1 align="center"> नमस्ते 👋, I'm Piyush Verma</h1>
-<h3 align="center">Things Aren't Always #000000 and #ffffff!</h3>
+<h1 align="center"> नमस्ते 👋, I'm <a href="https://itsthepiyush.web.app/" rel="nofollow">Piyush Verma<</a>/h1>
+<h3 align="center">UI/UX Designer | Front End Developer</h3>
 
-UI/UX Designer | Front End Developer 
+ 
 
 
 
@@ -10,8 +10,14 @@ UI/UX Designer | Front End Developer
 <p>
   <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
 </p>
+<div>
+ <p>
+I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+</p>
+</div>
 
-Design ❤️| Programming 💙| Music 💚
+
+Design ❤️ | Programming 💙 | Music 💚
 
 I'm from Gurugram - India  
 
@@ -22,8 +28,28 @@ Programmer who makes some kludges.
 
 It's all folks
 
-## Social Media
-<a href="https://www.linkedin.com/in/ThePiyushVerma/"><img height="20" src="https://camo.githubusercontent.com/a25943975d6716ea349a4e41c4f05c027dc6da74/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f636f6c6f723d253233303037326231266c6162656c3d636f6e6e656374266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d253233303037326231267374796c653d666c61742d7371756172652675726c3d68747470732533412532462532467777772e6c696e6b6564696e2e636f6d253246696e253246616c656a616e64726f2d72616d6972657a2d63696365726f73253246"></a>
-<a href="https://github.com/ThePiyushVerma"><img height="20" src="https://camo.githubusercontent.com/b5f3da568197c022c0a032a93df03c10ff0c8abb/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f636f6c6f723d6f72616e6765266c6162656c3d666f6c6c6f77266c6f676f3d726564646974266c6f676f436f6c6f723d6f72616e6765267374796c653d666c61742d7371756172652675726c3d68747470732533412532462532467777772e7265646469742e636f6d25324675736572253246466174436869636b656e323737"></a>
+## Github Stats
+ 
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=ThePiyushVerma&theme=default&show_icons=true)
 
-⭐️ From [ThePiyushVerma](https://github.com/ThePiyushVerma).
+
+## Let's connect and chat! incoming_envelope
+
+<!-- Social Media linkss -->
+
+<p align="center"> 
+  <i> Let's connect and chat! :incoming_envelope: </i>
+</p>
+
+<p align="center">
+    <a href="mailto:verma.piyush9@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/2913/2913990.svg" width="35px" alt="Gmail"></a> &nbsp; &nbsp;
+   <a href="https://api.whatsapp.com/send?phone=+919315395856"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="35px" alt="Whatsapp"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/ThePiyushVerma"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://instagram.com/ThePiyushVerma"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/ThePiyushVerma"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/twitter-round.svg" width="35px" alt="Twitter">     </a> &nbsp; &nbsp;
+ 
+</p>
+
+<p align="center">
+  <i> Open to anything under the stars :sparkles: </i>
+</p>
