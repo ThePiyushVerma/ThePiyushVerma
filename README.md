@@ -1,12 +1,8 @@
 
-## Hi, im Piyush ⚡
+<h1 align="center"> नमस्ते 👋, I'm Piyush Verma</h1>
+<h3 align="center">Things Aren't Always #000000 and #ffffff!</h3>
 
 UI/UX Designer | Front End Developer 
-
-
-
-
-
 
 
 
