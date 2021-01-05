@@ -1,5 +1,5 @@
 
-<h1 align="center"> नमस्ते <img src="https://github.com/souvikguria98/souvikguria98/raw/master/Hi.gif" width="25" style="max-width:100%;">, I'm <a href="https://itsthepiyush.web.app/" rel="nofollow">Piyush Verma</a></h1>
+<h1 align="center"> नमस्ते <img src="https://github.com/souvikguria98/souvikguria98/raw/master/Hi.gif" width="25" style="max-width:100%;">, I'm <a href="https://itsthepiyush.web.app/" rel="nofollow" target="_blank">Piyush Verma</a></h1>
 <h3 align="center">UI/UX Designer | Front End Developer</h3>
 
  
@@ -20,7 +20,7 @@ Design ❤️ | Programming 💙 | Music 💚
 
 I'm from Gurugram - India  
 
-I have a site [here](https://itsthepiyush.web.app/)
+I have a site [here target="_blank"](https://itsthepiyush.web.app/)
 
 Programmer who makes some kludges.
 
@@ -39,11 +39,10 @@ Programmer who makes some kludges.
  
 <p align="center">
     <a href="mailto:verma.piyush9@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/2913/2913990.svg" width="35px" alt="Gmail"></a> &nbsp; &nbsp;
-   <a href="https://api.whatsapp.com/send?phone=+919315395856"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="35px" alt="Whatsapp"></a> &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/ThePiyushVerma"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/ThePiyushVerma"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/ThePiyushVerma"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/twitter-round.svg" width="35px" alt="Twitter">     </a> &nbsp; &nbsp;
- 
+   <a target="_blank" href="https://api.whatsapp.com/send?phone=+919315395856"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="35px" alt="Whatsapp"></a> &nbsp; &nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/ThePiyushVerma"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a target="_blank" href="https://instagram.com/ThePiyushVerma"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a target="_blank" href="https://twitter.com/ThePiyushVerma"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/twitter-round.svg" width="35px" alt="Twitter">     </a>
 </p>
 
 <p align="center">
