@@ -16,24 +16,23 @@ I am Mid-level Web developer able to build a Web presence from the ground up - f
 </p>
 </div>
 
-
 Design ❤️ | Programming 💙 | Music 💚
 
 I'm from Gurugram - India  
-
 
 I have a site [here](https://itsthepiyush.web.app/)
 
 Programmer who makes some kludges.
 
-It's all folks
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's all folks
 
 ## Github Stats
- <p align="center"> 
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=ThePiyushVerma&theme=default&show_icons=true)
-</p>
+ 
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=ThePiyushVerma&show_icons=true&theme=default)
+ 
+ 
 
-## Let's connect and chat!
+## Connect with Me !
 
 <!-- Social Media linkss -->
 
