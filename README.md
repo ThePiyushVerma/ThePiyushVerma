@@ -1,5 +1,5 @@
 
-<h1 align="center"> नमस्ते 👋, I'm <a href="https://itsthepiyush.web.app/" rel="nofollow">Piyush Verma<</a>/h1>
+<h1 align="center"> नमस्ते <img src="https://github.com/souvikguria98/souvikguria98/raw/master/Hi.gif" width="25" style="max-width:100%;">, I'm <a href="https://itsthepiyush.web.app/" rel="nofollow">Piyush Verma</a></h1>
 <h3 align="center">UI/UX Designer | Front End Developer</h3>
 
  
@@ -29,18 +29,15 @@ Programmer who makes some kludges.
 It's all folks
 
 ## Github Stats
- 
+ <p align="center"> 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=ThePiyushVerma&theme=default&show_icons=true)
+</p>
 
-
-## Let's connect and chat! incoming_envelope
+## Let's connect and chat!
 
 <!-- Social Media linkss -->
 
-<p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
-</p>
-
+ 
 <p align="center">
     <a href="mailto:verma.piyush9@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/2913/2913990.svg" width="35px" alt="Gmail"></a> &nbsp; &nbsp;
    <a href="https://api.whatsapp.com/send?phone=+919315395856"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="35px" alt="Whatsapp"></a> &nbsp; &nbsp;
