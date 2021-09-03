@@ -36,7 +36,7 @@ It's all folks
 
  
 <p align="center">
-    <a href="mailto:verma.piyush9@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/2913/2913990.svg" width="35px" alt="Gmail"></a> &nbsp; &nbsp;
+    <a href="mailto:verma.piyush9@gmail.com"><img src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" width="35px" alt="Gmail"></a> &nbsp; &nbsp;
    <a href="https://api.whatsapp.com/send?phone=+919315395856"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="35px" alt="Whatsapp"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/ThePiyushVerma"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://instagram.com/ThePiyushVerma"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
